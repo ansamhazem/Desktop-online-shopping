@@ -1,0 +1,13 @@
+Air mail
+
+time="15-30 day";
+            price="20 L.E";
+
+priority line
+
+time="7-12 day";
+            price="70 L.E";
+
+expedited shipping
+ time="3-7 day";
+            price="120 L.E";
